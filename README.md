@@ -158,3 +158,4 @@ cryptocurrency_project/
 # cryptopsic
 # psic
 # cryptopsic
+# cryptopsic
