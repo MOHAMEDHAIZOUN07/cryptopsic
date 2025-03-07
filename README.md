@@ -156,3 +156,4 @@ cryptocurrency_project/
     └── workflows/
         └── ci.yml
 # cryptopsic
+# psic
